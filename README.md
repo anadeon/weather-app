@@ -22,4 +22,4 @@ Um simples aplicativo de previsão do tempo feito com **HTML** , **CSS** e **Jav
 
 ### Preview:
 
-[Preview](img/preview.png)
+![App-weather](img/preview.png)

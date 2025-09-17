@@ -6,8 +6,8 @@ Um simples aplicativo de previsão do tempo feito com **HTML** , **CSS** e **Jav
 
 * HTML5
 * CSS3
-* JavaScript (Vanilla)
-* [OpenWeatherMap API]()
+* JavaScript
+* OpenWeatherMap API
 
 ### 🔍 Funcionalidades
 
@@ -19,7 +19,7 @@ Um simples aplicativo de previsão do tempo feito com **HTML** , **CSS** e **Jav
   * Velocidade do vento (km/h)
   * Ícone representando o clima atual (chuva, sol, nublado, etc.)
 * Mensagem de erro para nomes de cidades inválidos.
+---
+Você pode conferir o site neste link: [Clique aqui 🩷](https://anadeon.github.io/weather-app/)
 
-### Preview:
-
-![App-weather](img/preview.png)
+✨ Desenvolvido por Ana Gabriela Deon
